@@ -28,7 +28,7 @@
 
 ****
 
-![]([PNG/HomeScreen.png](./PNG/process.png))
+![](./PNG/process.png))
 
 ### 4.环境安装
 
@@ -43,4 +43,4 @@ Next
 ****
 
 - 程序主界面
-![]([PNG/HomeScreen.png](./PNG/HomeScreen.png))
+![](./PNG/HomeScreen.png))
