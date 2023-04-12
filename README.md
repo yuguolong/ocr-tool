@@ -28,7 +28,7 @@
 
 ****
 
-![](C:\Users\YGL\AppData\Roaming\marktext\images\2023-04-11-23-29-12-image.png)
+![]([PNG/HomeScreen.png](https://github.com/yuguolong/ocr-tool/blob/main/PNG/process.png))
 
 ### 4.环境安装
 
@@ -38,10 +38,9 @@ Next
 
 需要导出一个安装txt
 
-### 5.环境测试
+### 5.程序测试
 
 ****
 
-Next
-
-介绍功能并展示
+- 程序主界面
+![]([PNG/HomeScreen.png](https://github.com/yuguolong/ocr-tool/blob/main/PNG/HomeScreen.png))
